@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Demo Live: https://unruffled-jones-ac929a.netlify.com/
 
+##installation 
+
+ npm install node-sass --save
+
 ## Available Scripts
 
 In the project directory, you can run:
