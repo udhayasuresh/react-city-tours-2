@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Demo Live: https://unruffled-jones-ac929a.netlify.com/
 
-##installation 
+## Installation 
 
  npm install node-sass --save
 
