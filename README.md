@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Demo Live: https://unruffled-jones-ac929a.netlify.com/
+Demo Live: https://pedantic-keller-ee8fa6.netlify.app/
 
 ## Installation 
 
